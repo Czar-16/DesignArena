@@ -43,18 +43,23 @@ DesignArena is an interactive Low-Level Design (LLD) practice platform where lea
 Below are screenshots demonstrating the key workflows of the DesignArena application:
 
 ### 1. Problem Catalog & Dashboard
+
 ![Problem Catalog](./screenshots/pic1.png)
 
 ### 2. Problem Detail & Requirement View
+
 ![Problem Detail](./screenshots/pic2.png)
 
 ### 3. Solution Submission Form
+
 ![Solution Submission](./screenshots/pic3.png)
 
 ### 4. AI Rubric Evaluation & Detailed Feedback
+
 ![AI Rubric Evaluation](./screenshots/pic4.png)
 
 ### 5. Submission History & Attempt Comparison
+
 ![Submission History](./screenshots/pic5.png)
 
 ---
@@ -314,6 +319,10 @@ The MVP intentionally keeps the scope small. Possible future improvements includ
 
 ---
 
-## License
+## 📄 License
 
-This project was created as an engineering assignment prototype.
+This project is licensed under the MIT License.
+
+## 🙋‍♂️ Author
+
+Built by [Czar16](https://x.com/itsCzar16) — follow along for more build-in-public updates.
